@@ -1,37 +1,4 @@
 [ {
-  "@id" : "https://identifier.overheid.nl/tooi/id/oorg/oorg10000",
-  "@type" : [ "https://identifier.overheid.nl/tooi/def/ont/Overheidsorganisatie" ],
-  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@language" : "nl",
-    "@value" : "Verenigde Vergadering"
-  } ],
-  "https://identifier.overheid.nl/tooi/def/ont/officieleNaamExclSoort" : [ {
-    "@language" : "nl",
-    "@value" : "Verenigde Vergadering der Staten-Generaal"
-  } ],
-  "https://identifier.overheid.nl/tooi/def/ont/officieleNaamSorteer" : [ {
-    "@language" : "nl",
-    "@value" : "verenigde vergadering der staten-generaal"
-  } ],
-  "https://identifier.overheid.nl/tooi/def/ont/organisatiecode" : [ {
-    "@value" : "oorg10000"
-  } ],
-  "https://identifier.overheid.nl/tooi/def/ont/organisatiesoort" : [ {
-    "@id" : "https://identifier.overheid.nl/tooi/def/thes/kern/c_c5137aec"
-  } ],
-  "https://identifier.overheid.nl/tooi/def/ont/owmsId" : [ {
-    "@type" : "http://www.w3.org/2001/XMLSchema#anyURI",
-    "@value" : "http://standaarden.overheid.nl/owms/terms/Verenigde_Vergadering_der_Staten-Generaal"
-  } ],
-  "https://identifier.overheid.nl/tooi/def/ont/voorkeursnaamExclSoort" : [ {
-    "@language" : "nl",
-    "@value" : "Verenigde Vergadering"
-  } ],
-  "https://identifier.overheid.nl/tooi/def/ont/voorkeursnaamSorteer" : [ {
-    "@language" : "nl",
-    "@value" : "verenigde vergadering"
-  } ]
-}, {
   "@id" : "https://identifier.overheid.nl/tooi/id/oorg/oorg10001",
   "@type" : [ "https://identifier.overheid.nl/tooi/def/ont/Overheidsorganisatie" ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
